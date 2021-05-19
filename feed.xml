@@ -1,4 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ko.essepost.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://ko.essepost.com//" rel="alternate" type="text/html" hreflang="ko" /><updated>2021-05-19T15:55:03+09:00</updated><id>https://ko.essepost.com//feed.xml</id><title type="html">essepost</title><subtitle></subtitle><author><name>essepost</name><email>deepseabolt@gmail.com</email></author><entry><title type="html">SD카드 스마트폰용 선택팁, 구매요령</title><link href="https://ko.essepost.com//smartphone-sdcard/" rel="alternate" type="text/html" title="SD카드 스마트폰용 선택팁, 구매요령" /><published>2021-05-19T00:00:00+09:00</published><updated>2021-05-19T00:00:00+09:00</updated><id>https://ko.essepost.com//smartphone-sdcard</id><content type="html" xml:base="https://ko.essepost.com//smartphone-sdcard/">&lt;h1 id=&quot;스마트폰에-최적화된-sd카드&quot;&gt;스마트폰에 최적화된 SD카드&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ko.essepost.com//feed.xml" rel="self" type="application/atom+xml" /><link href="https://ko.essepost.com//" rel="alternate" type="text/html" hreflang="ko" /><updated>2021-05-19T16:25:25+09:00</updated><id>https://ko.essepost.com//feed.xml</id><title type="html">essepost</title><subtitle></subtitle><author><name>essepost</name><email>deepseabolt@gmail.com</email></author><entry><title type="html">SD카드 블랙박스, CCTV용 선택팁, 구매요령</title><link href="https://ko.essepost.com//blackbox-sdcard/" rel="alternate" type="text/html" title="SD카드 블랙박스, CCTV용 선택팁, 구매요령" /><published>2021-05-19T00:00:00+09:00</published><updated>2021-05-19T00:00:00+09:00</updated><id>https://ko.essepost.com//blackbox-sdcard</id><content type="html" xml:base="https://ko.essepost.com//blackbox-sdcard/">&lt;blockquote&gt;
+  &lt;p&gt;어느날 SD카드가 인식이 되지 않는다고 뜬다!&lt;br /&gt;
+아차! 사고가 났다.&lt;br /&gt;
+분명 상대방과실이다.&lt;br /&gt;
+블랙박스를 확인 하는데, 영상이 없다!!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;생각만 해도 아찔하다.&lt;br /&gt;
+우리도 모르는 사이 SD카드의 수명이 다 했다면…&lt;br /&gt;
+세상 모든 것은 수명이 있다.&lt;br /&gt;
+SD카드들 마다 수명이 다르다느 사실&lt;br /&gt;
+이렇게 데이터의 저장 안정성이 중요한 곳에는 내구성이 좋은 제품을 써야 한다.&lt;br /&gt;
+어떻게 하면 내구성(안정성) 좋은 SD카드를 선택할 수 있을까?&lt;/p&gt;
+
+&lt;p&gt;SD카드의 유형에는 SLC, MLC, TLC 방식이 있다.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;유형&lt;/th&gt;
+      &lt;th&gt;SLC&lt;/th&gt;
+      &lt;th&gt;MLC&lt;/th&gt;
+      &lt;th&gt;TLC&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;셀당 비트수&lt;/td&gt;
+      &lt;td&gt;1 bit&lt;/td&gt;
+      &lt;td&gt;2 bit&lt;/td&gt;
+      &lt;td&gt;3bit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;수명&lt;/td&gt;
+      &lt;td&gt;길다&lt;/td&gt;
+      &lt;td&gt;길다&lt;/td&gt;
+      &lt;td&gt;짧다&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;속도&lt;/td&gt;
+      &lt;td&gt;빠르다&lt;/td&gt;
+      &lt;td&gt;빠르다&lt;/td&gt;
+      &lt;td&gt;느리다&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;안정성&lt;/td&gt;
+      &lt;td&gt;상&lt;/td&gt;
+      &lt;td&gt;중&lt;/td&gt;
+      &lt;td&gt;하&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;가격&lt;/td&gt;
+      &lt;td&gt;고가&lt;/td&gt;
+      &lt;td&gt;보통&lt;/td&gt;
+      &lt;td&gt;저가&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;셀당 비트수가 적을 수록, 내구성이 우수하고 같은 셀당 용량이 적어지기 때문에 생산원가가 높습니다.&lt;br /&gt;
+SLC방식이 가장 내구성이 우수하나&lt;br /&gt;
+고가라서 산업용으로 주로 쓰입니다.&lt;br /&gt;
+그럼 우리는 내구성이 필요한 곳에는 MLC를 사용하면 됩니다.&lt;br /&gt;
+어떻게 확인 할 까요?&lt;br /&gt;
+주로 확인이 안되는 경우가 많습니다.&lt;br /&gt;
+일부 제품에서는 제품에 생산방식을 기입하지만&lt;br /&gt;
+이것또한 여러가지 논란이 있습니다.&lt;br /&gt;
+TLC방식으로 생산했음에도 말장난식으로 MLC방식이라고 표기하는 경우도 간혹 있어요.&lt;br /&gt;
+우리는 어떻게 구매 해야 할까요?&lt;br /&gt;
+일단, 신뢰성있는 회사의 제품을 선택해야겠습니다.&lt;br /&gt;
+보증기간 확인도 필요하구요&lt;br /&gt;
+그 중 내구성에 특화된 제품을 선택하는 것이 현명한 선택이 될 것입니다.&lt;/p&gt;
+
+&lt;p&gt;블랙박스, CCTV용 sd카드 추천해요.&lt;br /&gt;
+파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있습니다.&lt;/p&gt;
+
+&lt;h5 id=&quot;삼성전자-microsdxc-pro-endurance-메모리카드-mb-mj128gaapc&quot;&gt;&lt;a href=&quot;https://coupa.ng/bZBJ1Q&quot; target=&quot;\_blank&quot;&gt;삼성전자 MicroSDXC PRO Endurance 메모리카드 MB-MJ128GA/APC&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;지속시간: 최대 43,800시간(=5년)FULL HD녹화기준&lt;br /&gt;
+보증기간: 제한적 5년보증
+읽기속도: 최대 100MB/s&lt;br /&gt;
+쓰기속도: 최대 30MB/s&lt;br /&gt;
+&lt;a href=&quot;https://coupa.ng/bZBJ2q&quot; target=&quot;_blank&quot; referrerpolicy=&quot;unsafe-url&quot;&gt;&lt;img src=&quot;https://static.coupangcdn.com/image/affiliate/banner/9550b8e5c20ad1e9fc85e669e6da3912@2x.jpg&quot; alt=&quot;삼성전자 MicroSDXC PRO Endurance 메모리카드 MB-MJ128GA/APC, 128GB&quot; width=&quot;120&quot; height=&quot;240&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>deepseabolt</name></author><summary type="html">어느날 SD카드가 인식이 되지 않는다고 뜬다! 아차! 사고가 났다. 분명 상대방과실이다. 블랙박스를 확인 하는데, 영상이 없다!!</summary></entry><entry><title type="html">SD카드 스마트폰용 선택팁, 구매요령</title><link href="https://ko.essepost.com//smartphone-sdcard/" rel="alternate" type="text/html" title="SD카드 스마트폰용 선택팁, 구매요령" /><published>2021-05-19T00:00:00+09:00</published><updated>2021-05-19T00:00:00+09:00</updated><id>https://ko.essepost.com//smartphone-sdcard</id><content type="html" xml:base="https://ko.essepost.com//smartphone-sdcard/">&lt;h1 id=&quot;스마트폰에-최적화된-sd카드&quot;&gt;스마트폰에 최적화된 SD카드&lt;/h1&gt;
 
 &lt;p&gt;스마트폰의 성능이 날이 갈수록 발전하고 있어요.&lt;br /&gt;
 그만큼 우리생활에서 스마트폰은 빠질 수 가 없고, 여러가지 활동을 합니다.&lt;br /&gt;
@@ -15,8 +97,8 @@ sd카드를 보면 A1 또는 A2 라고 쓰여있는 제품이 있어요.
 &lt;img src=&quot;/assets/img/sdcard/img_application.jpg&quot; alt=&quot;img_application&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;출처 : https://www.sdcard.org/developers/sd-standard-overview/sd-family/&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;데이터뿐만 아니라, &lt;strong&gt;앱을 빠른 속도로 실행하고 구동할 수 있다.&lt;/strong&gt;
-A1 마이크로SD 카드에서 직접 앱을 로드하고 시작할 수 있다.
+&lt;p&gt;데이터뿐만 아니라, &lt;strong&gt;앱을 빠른 속도로 실행하고 구동할 수 있어요.&lt;/strong&gt;
+A1 마이크로SD 카드에서 직접 앱을 로드하고 시작할 수 있습니다.&lt;br /&gt;
 스마트폰용 sd카드 추천합니다.&lt;br /&gt;
 파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있습니다.&lt;/p&gt;
 
